@@ -11,7 +11,7 @@ RiMusic es una aplicación multilingüe para Android que permite reproducir mús
 - Reproducción en segundo plano con parada mientras la aplicación se desplaza desde el administrador de tareas
 - Optimizaciones del reproductor minimizadas
 - Estadísticas de escucha
-- Visualizador de audio en el reproductor con muchos tipos de efectos. ESTA FUNCIÓN REQUIERE PERMISO DEL MICRÓFONO, SÓLO SI SE ACTIVA DESDE LA CONFIGURACIÓN. POR DEFECTO ESTÁ DESACTIVADA. Toda la lista de permisos está en la página wiki en el enlace https://github.com/fast4x/RiMusic/wiki/FAQs#-what-permissions-are-used
+- Visualizador de audio en el reproductor con muchos tipos de efectos. (ESTA FUNCIÓN REQUIERE PERMISO DEL MICRÓFONO, SÓLO SI SE ACTIVA DESDE LA CONFIGURACIÓN. POR DEFECTO ESTÁ DESACTIVADA). Toda la lista de permisos está en la página wiki en el enlace https://github.com/fast4x/RiMusic/wiki/FAQs#-what-permissions-are-used
 - Noticias, estado de ánimo y géneros musicales
 - Nuevos álbumes de artistas preferidos
 - Búsqueda de canciones, álbumes, artistas y listas de reproducción
