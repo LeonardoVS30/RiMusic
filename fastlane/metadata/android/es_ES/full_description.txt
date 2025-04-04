@@ -1,0 +1,35 @@
+RiMusic es una aplicación multilingüe para Android que permite reproducir música desde YouTube Music en streaming. Disponible en varios idiomas.
+<br>Nació como una extensión de la funcionalidad de ViMusic, conservando la apariencia general y los colores.
+
+## Características
+- Soporte multilingüe:** Inglés, italiano, alemán, ruso, francés, español, checo, turco, rumano y más. Contribuciones para otros idiomas son bienvenidas
+- Modo de interfaz de usuario, cambiar el estilo de RiMusic al estilo clásico ViMusic y viceversa.
+- Reproduce canciones de YouTube Music
+- Cambia tu idioma favorito desde los ajustes
+- Auto caché de canciones para reproducción offline con tamaño de caché personalizado
+- Descarga canciones o toda la lista de reproducción para su reproducción sin conexión (sin caché)
+- Reproducción en segundo plano con parada mientras la aplicación se desplaza desde el administrador de tareas
+- Optimizaciones del reproductor minimizadas
+- Estadísticas de escucha
+- Visualizador de audio en el reproductor con muchos tipos de efectos. ESTA FUNCIÓN REQUIERE PERMISO DEL MICRÓFONO, SÓLO SI SE ACTIVA DESDE LA CONFIGURACIÓN. POR DEFECTO ESTÁ DESACTIVADA. Toda la lista de permisos está en la página wiki en el enlace https://github.com/fast4x/RiMusic/wiki/FAQs#-what-permissions-are-used
+- Noticias, estado de ánimo y géneros musicales
+- Nuevos álbumes de artistas preferidos
+- Búsqueda de canciones, álbumes, artistas y listas de reproducción
+- Marcar artistas y álbumes
+- Importar listas de reproducción
+- Gestión local de listas de reproducción
+- Reordenación de canciones en la lista de reproducción o en la cola
+- Cola persistente
+- Borrar cola
+- Compatibilidad con el menú Compartir para enlaces de YouTube y YouTube Music
+- Obtener, mostrar, editar y traducir letras de canciones sincronizadas o no.
+- Temas Light, Dark, Dynamic y ModernBack
+- Temporizador de reposo con hora personalizada
+- Normalización de audio
+- Silencio de salto de audio
+- Compatibilidad con Android Auto
+- Compatibilidad con Android TV
+- Buscar actualizaciones, activar/desactivar en la configuración
+
+Visítalo en Github
+https://github.com/fast4x/RiMusic
